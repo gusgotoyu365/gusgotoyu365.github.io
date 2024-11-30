@@ -1,4 +1,13 @@
 # main links
+main:
+  - title: "HOME"
+    url: /
+  - title: "카테고리"
+    url: /categories/
+  - title: "태그"
+    url: /tags/
+
+#sidebar
 sidebar-category:
   - title: "카테고리"
     children:
