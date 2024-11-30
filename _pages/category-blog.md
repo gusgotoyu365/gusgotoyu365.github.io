@@ -4,7 +4,7 @@ layout: archive
 permalink: /blog
 author_profile: true
 sidebar:
-  nav: "docs"
+  nav: "sidebar-category"
 ---
 
 

@@ -9,10 +9,10 @@ main:
 
 #sidebar
 sidebar-category:
-  - title: "카테고리"
+  - title: "기타"
     children:
       - title: "📝블로그"
-        url: /blog
+        url: /blog/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
